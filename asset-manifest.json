@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RoughPractise/static/css/main.2784506f.css",
+    "main.js": "/RoughPractise/static/js/main.a0061bcd.js",
+    "static/js/787.06d9b269.chunk.js": "/RoughPractise/static/js/787.06d9b269.chunk.js",
+    "index.html": "/RoughPractise/index.html",
+    "main.2784506f.css.map": "/RoughPractise/static/css/main.2784506f.css.map",
+    "main.a0061bcd.js.map": "/RoughPractise/static/js/main.a0061bcd.js.map",
+    "787.06d9b269.chunk.js.map": "/RoughPractise/static/js/787.06d9b269.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2784506f.css",
+    "static/js/main.a0061bcd.js"
+  ]
+}
